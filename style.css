@@ -1,0 +1,24 @@
+header {background-color: rgb(240, 225, 159);
+ border-style: double;
+ border-radius: 40px;
+ padding: 1%;
+text-align: center;
+background-image: url(Img/head.jpg); 
+background-size: 10px;}
+.main {height: 500px;}
+
+body {background-color: rgb(230, 199, 204)}
+
+h3 {color: rgb(7, 7, 114);}
+h3{ text-align: center;} 
+body{background-image: url(https://acortar.link/DCvMKJ); background-repeat: repeat; 
+    background-position: right;}
+    
+
+h4{text-align: right;}
+
+.bottom{height: 10px;}
+footer {background-color: beige;}
+h2{
+    color: rgb(19, 94, 17);
+}
